@@ -1,0 +1,51 @@
+[
+  {
+    "date_time": "2019-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 390.00
+  },
+  {
+    "date_time": "2019-07-25 19:49:33",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "RED_TRAFFIC_LIGHT",
+    "fine_amount": 250.00
+  },
+  {
+    "date_time": "2019-02-28 14:29:31",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 800.00
+  },
+  {
+    "date_time": "2019-08-25 12:42:33",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "RED_TRAFFIC_LIGHT",
+    "fine_amount": 250.00
+  },
+  {
+    "date_time": "2019-02-25 12:29:31",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "DRUNK_DRIVING",
+    "fine_amount": 800.00
+  },
+  {
+    "date_time": "2019-11-05 12:34:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 390.00
+  },
+  {
+    "date_time": "2019-04-17 11:35:23",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "NO_LICENSE",
+    "fine_amount": 1600.00
+  }
+]
